@@ -1,0 +1,5 @@
+streamlit
+langchain-groq
+langchain-community
+tavily-python
+pymupdf
