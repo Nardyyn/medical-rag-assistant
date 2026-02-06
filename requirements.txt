@@ -1,5 +1,7 @@
 streamlit
+langchain
 langchain-groq
 langchain-community
 tavily-python
-pymupdf
+fpdf2
+python-dotenv
